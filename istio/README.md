@@ -1,6 +1,4 @@
-# minikube - k8s personal lab
-
-## istio
+# istio
 
 istio website: https://istio.io/latest/docs/
 
