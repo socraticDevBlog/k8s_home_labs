@@ -15,7 +15,7 @@ A comfortable home lab to develop and debug kubernetes deployments.
 
 knowing k8s basic concepts helps architecturing, building, and debugging.
 
-[concepts](concepts.md) section lists fundamentals kubernetes concepts.
+[concepts](./concepts/deployment/README.md) section lists fundamentals kubernetes concepts.
 
 Additional informative files are available via links peppered throughout!
 
