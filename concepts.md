@@ -11,7 +11,7 @@
 > define Deployments to create new ReplicaSets, or to remove existing
 > Deployments and adopt all their resources with new Deployments.
 
-[more...](./concepts/deployment/readme.md)
+[more...](./concepts/deployment/README.md)
 
 ## ReplicaSets
 
