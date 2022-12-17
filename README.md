@@ -1,3 +1,8 @@
+![GitHub last
+commit](https://img.shields.io/github/last-commit/socraticDevBlog/k8s_home_labs)
+![GitHub commit
+activity](https://img.shields.io/github/commit-activity/m/socraticDevBlog/k8s_home_labs)
+
 # kubernetes local labs tooling 🥼🧪
 
 A comfortable home lab to develop and debug kubernetes deployments.
