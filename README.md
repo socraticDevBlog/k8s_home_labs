@@ -17,10 +17,10 @@ I will keep you informed!
 ### Docker platform (with Docker Desktop, please!)
 
 > Docker is a software platform that allows you to build, test, and deploy applications quickly. Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime.
-
-  - MacOs: https://docs.docker.com/desktop/install/mac-install/
-  - linux (Ubuntu, Debian, Fedora): https://docs.docker.com/desktop/install/linux-install/
-  - Windows: https://docs.docker.com/desktop/install/windows-install/
+> 
+  - [MacOs](https://docs.docker.com/desktop/install/mac-install/)
+  - [linux (Ubuntu, Debian, Fedora)](https://docs.docker.com/desktop/install/linux-install/)
+  - [Windows](https://docs.docker.com/desktop/install/windows-install/)
     (requires WSL 2 backend enabled (free and built-in to Windows))  
 
 
