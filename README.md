@@ -42,8 +42,8 @@ Machine environment, and Kubernetes is a single command away: minikube start"
 
 https://minikube.sigs.k8s.io/docs/start/
 
-## istio 🕸️
+## basic k8s/istio lab 🕸️
 
-visit our first lab: [istio lab and learn](istio/README.md)
+visit our first lab: [istio lab and learn](basic_lab/README.md)
 
 
