@@ -7,8 +7,8 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-avatar: "/assets/img/avatar-icon.jpg"
-title-img: "/assets/img/banner.png"
+# avatar: "/assets/img/avatar-icon.jpg"
+# title-img: "/assets/img/banner.png"
 
 github: "socraticDevBlog"
 twitter: "SocraticDevBlog"
@@ -21,7 +21,5 @@ share-links-active:
   mastodon: true
   github: true
 
-
 timezone: "America/Toronto"
 markdown: kramdown
-highlighter: rouge
