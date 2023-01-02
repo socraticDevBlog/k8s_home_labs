@@ -19,6 +19,7 @@ share-links-active:
   facebook: true
   linkedin: true
   mastodon: true
+  github: true
 
 url-pretty: "k8slab.dailybuild.org"
 
