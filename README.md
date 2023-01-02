@@ -5,6 +5,12 @@ activity](https://img.shields.io/github/commit-activity/m/socraticDevBlog/k8s_ho
 
 # kubernetes local labs tooling 🥼🧪
 
+| quick links to navigate this project                          |
+| ------------------------------------------------------------- |
+| [your basic lab environment](basic_lab/README.md)             |
+| [concepts you want to master](./concepts/README.md)           |
+| [kubectl - master k8s command line tool](./kubectl/README.md) |
+
 ## minimal requirements 🧰
 
 Your development machine must have enough RAM et processing power to run a
@@ -17,12 +23,11 @@ I will keep you informed!
 ### Docker platform (with Docker Desktop, please!)
 
 > Docker is a software platform that allows you to build, test, and deploy applications quickly. Docker packages software into standardized units called containers that have everything the software needs to run including libraries, system tools, code, and runtime.
-> 
-  - [MacOs](https://docs.docker.com/desktop/install/mac-install/)
-  - [linux (Ubuntu, Debian, Fedora)](https://docs.docker.com/desktop/install/linux-install/)
-  - [Windows](https://docs.docker.com/desktop/install/windows-install/)
-    (requires WSL 2 backend enabled (free and built-in to Windows))  
 
+- [MacOs](https://docs.docker.com/desktop/install/mac-install/)
+- [linux (Ubuntu, Debian, Fedora)](https://docs.docker.com/desktop/install/linux-install/)
+- [Windows](https://docs.docker.com/desktop/install/windows-install/)
+  (requires WSL 2 backend enabled (free and built-in to Windows))
 
 ## concepts 💡📜
 
@@ -45,5 +50,3 @@ https://minikube.sigs.k8s.io/docs/start/
 ## basic k8s/istio lab 🕸️
 
 visit our first lab: [istio lab and learn](basic_lab/README.md)
-
-
