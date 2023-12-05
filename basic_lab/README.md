@@ -7,9 +7,12 @@
 
 ## lab process
 
-0. Start a Minikube instance
-1. Install Istio
-2. Deploy observability(o11y) stack
+0. Start a Minikube instance and set required resources values
+   ```bash
+    minikube start --cpus 4 --memory 16384
+   ```
+1. [install istio](https://istio.io/latest/docs/setup/getting-started/#download) using istioctl
+2. stay on the same page and deploy the sample application (bookstore)
 
 ## istio
 
